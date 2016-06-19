@@ -22,7 +22,7 @@ body {
   margin: 0 auto;
 }
 #diagram:after {
-  content: attr(data-prt) "%";
+  content: attr(data-pct) "%";
   position: absolute;
   left: 50%;
   top: 50%;
